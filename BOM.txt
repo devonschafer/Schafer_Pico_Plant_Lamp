@@ -1,0 +1,9 @@
+QPass 1602A 16X2 LCD
+Raspberry Pico
+On/Off switch
+7 momentary button switches
+680 uf  aluminum electrolytic capacitor
+micro female usb connector
+3 24 ohm 1/4W resistor (SMD)
+
+3 transistors (collector to base 40v, emitter to base 5v, maximum DC collector current 1.5A ( part no. MMSS8050-H-TP ))
